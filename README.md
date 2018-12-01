@@ -1,7 +1,7 @@
 # AR-ResNet-MSR
 Action Recognition using Resnet on MSR 3d Activity dataset
 
-### dataset
+### Dataset
 MSR Activity dataset contains real world co-ordinates and local camera co-ordinates. We make use of both of them.
 
 - Load data for training using load_dataset()
