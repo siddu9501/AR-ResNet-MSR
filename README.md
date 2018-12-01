@@ -12,5 +12,5 @@ MSR Activity dataset contains real world co-ordinates and local camera co-ordina
 Choose model from ResNet18, ResNet34;
 - ResNet50 and above do not work with embedded devices due to want for memory.
 
-### training
+### Training
 Running the train.py will run the model and return the top-1 accuracy of the model on the test and the training set.
